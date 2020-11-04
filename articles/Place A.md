@@ -1,5 +1,5 @@
 ---
-name: John
+name: Place A
 location: ''
 about: ''
 
