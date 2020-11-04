@@ -2,16 +2,16 @@
 label: Article
 hide_body: false
 fields:
-- name: location
-  type: text
-  config:
-    required: false
-  label: Location
 - name: name
   type: text
   config:
     required: false
   label: Name
+- name: location
+  type: text
+  config:
+    required: false
+  label: Location
 - name: about
   type: textarea
   default: ''
